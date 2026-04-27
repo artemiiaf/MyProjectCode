@@ -1,0 +1,6 @@
+@функции4_HostAddress = http://localhost:5014
+
+GET {{функции4_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

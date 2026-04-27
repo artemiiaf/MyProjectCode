@@ -1,0 +1,10 @@
+C:\Users\artem\OneDrive\Рабочий стол\matrix33\matrix33\bin\Debug\matrix33.exe.config
+C:\Users\artem\OneDrive\Рабочий стол\matrix33\matrix33\bin\Debug\matrix33.exe
+C:\Users\artem\OneDrive\Рабочий стол\matrix33\matrix33\bin\Debug\matrix33.pdb
+C:\Users\artem\OneDrive\Рабочий стол\matrix33\matrix33\obj\Debug\matrix33.csproj.AssemblyReference.cache
+C:\Users\artem\OneDrive\Рабочий стол\matrix33\matrix33\obj\Debug\matrix33.Form1.resources
+C:\Users\artem\OneDrive\Рабочий стол\matrix33\matrix33\obj\Debug\matrix33.Properties.Resources.resources
+C:\Users\artem\OneDrive\Рабочий стол\matrix33\matrix33\obj\Debug\matrix33.csproj.GenerateResource.cache
+C:\Users\artem\OneDrive\Рабочий стол\matrix33\matrix33\obj\Debug\matrix33.csproj.CoreCompileInputs.cache
+C:\Users\artem\OneDrive\Рабочий стол\matrix33\matrix33\obj\Debug\matrix33.exe
+C:\Users\artem\OneDrive\Рабочий стол\matrix33\matrix33\obj\Debug\matrix33.pdb

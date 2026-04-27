@@ -1,0 +1,10 @@
+C:\Users\artem\source\repos\калькулятор лог оппераций\калькулятор лог оппераций\bin\Debug\калькулятор лог оппераций.exe.config
+C:\Users\artem\source\repos\калькулятор лог оппераций\калькулятор лог оппераций\bin\Debug\калькулятор лог оппераций.exe
+C:\Users\artem\source\repos\калькулятор лог оппераций\калькулятор лог оппераций\bin\Debug\калькулятор лог оппераций.pdb
+C:\Users\artem\source\repos\калькулятор лог оппераций\калькулятор лог оппераций\obj\Debug\калькулятор лог оппераций.csproj.AssemblyReference.cache
+C:\Users\artem\source\repos\калькулятор лог оппераций\калькулятор лог оппераций\obj\Debug\калькулятор_лог_оппераций.Form1.resources
+C:\Users\artem\source\repos\калькулятор лог оппераций\калькулятор лог оппераций\obj\Debug\калькулятор_лог_оппераций.Properties.Resources.resources
+C:\Users\artem\source\repos\калькулятор лог оппераций\калькулятор лог оппераций\obj\Debug\калькулятор лог оппераций.csproj.GenerateResource.cache
+C:\Users\artem\source\repos\калькулятор лог оппераций\калькулятор лог оппераций\obj\Debug\калькулятор лог оппераций.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\калькулятор лог оппераций\калькулятор лог оппераций\obj\Debug\калькулятор лог оппераций.exe
+C:\Users\artem\source\repos\калькулятор лог оппераций\калькулятор лог оппераций\obj\Debug\калькулятор лог оппераций.pdb
