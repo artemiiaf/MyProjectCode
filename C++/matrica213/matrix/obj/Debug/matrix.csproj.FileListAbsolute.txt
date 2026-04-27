@@ -1,0 +1,15 @@
+C:\Users\artem\OneDrive\Рабочий стол\matrix\matrix\obj\Debug\matrix.csproj.AssemblyReference.cache
+C:\Users\artem\OneDrive\Рабочий стол\matrix\matrix\obj\Debug\matrix.Form1.resources
+C:\Users\artem\OneDrive\Рабочий стол\matrix\matrix\obj\Debug\matrix.Properties.Resources.resources
+C:\Users\artem\OneDrive\Рабочий стол\matrix\matrix\obj\Debug\matrix.csproj.GenerateResource.cache
+C:\Users\artem\OneDrive\Рабочий стол\matrix\matrix\obj\Debug\matrix.csproj.CoreCompileInputs.cache
+C:\Users\artem\OneDrive\Рабочий стол\matrica213\matrix\obj\Debug\matrix.csproj.AssemblyReference.cache
+C:\Users\artem\OneDrive\Рабочий стол\matrica213\matrix\obj\Debug\matrix.Form1.resources
+C:\Users\artem\OneDrive\Рабочий стол\matrica213\matrix\obj\Debug\matrix.Properties.Resources.resources
+C:\Users\artem\OneDrive\Рабочий стол\matrica213\matrix\obj\Debug\matrix.csproj.GenerateResource.cache
+C:\Users\artem\OneDrive\Рабочий стол\matrica213\matrix\obj\Debug\matrix.csproj.CoreCompileInputs.cache
+C:\Users\artem\OneDrive\Рабочий стол\matrica213\matrix\bin\Debug\matrix.exe.config
+C:\Users\artem\OneDrive\Рабочий стол\matrica213\matrix\bin\Debug\matrix.exe
+C:\Users\artem\OneDrive\Рабочий стол\matrica213\matrix\bin\Debug\matrix.pdb
+C:\Users\artem\OneDrive\Рабочий стол\matrica213\matrix\obj\Debug\matrix.exe
+C:\Users\artem\OneDrive\Рабочий стол\matrica213\matrix\obj\Debug\matrix.pdb
