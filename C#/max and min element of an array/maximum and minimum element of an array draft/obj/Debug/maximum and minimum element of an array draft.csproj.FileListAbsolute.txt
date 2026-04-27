@@ -1,7 +1,0 @@
-C:\Users\artem\OneDrive\Рабочий стол\max and min element of an array\maximum and minimum element of an array draft\bin\Debug\maximum and minimum element of an array draft.exe.config
-C:\Users\artem\OneDrive\Рабочий стол\max and min element of an array\maximum and minimum element of an array draft\bin\Debug\maximum and minimum element of an array draft.exe
-C:\Users\artem\OneDrive\Рабочий стол\max and min element of an array\maximum and minimum element of an array draft\bin\Debug\maximum and minimum element of an array draft.pdb
-C:\Users\artem\OneDrive\Рабочий стол\max and min element of an array\maximum and minimum element of an array draft\obj\Debug\maximum and minimum element of an array draft.csproj.AssemblyReference.cache
-C:\Users\artem\OneDrive\Рабочий стол\max and min element of an array\maximum and minimum element of an array draft\obj\Debug\maximum and minimum element of an array draft.csproj.CoreCompileInputs.cache
-C:\Users\artem\OneDrive\Рабочий стол\max and min element of an array\maximum and minimum element of an array draft\obj\Debug\maximum and minimum element of an array draft.exe
-C:\Users\artem\OneDrive\Рабочий стол\max and min element of an array\maximum and minimum element of an array draft\obj\Debug\maximum and minimum element of an array draft.pdb

@@ -1,7 +1,0 @@
-C:\Users\artem\OneDrive\Рабочий стол\shaxnat\shaxnat\bin\Debug\shaxnat.exe.config
-C:\Users\artem\OneDrive\Рабочий стол\shaxnat\shaxnat\bin\Debug\shaxnat.exe
-C:\Users\artem\OneDrive\Рабочий стол\shaxnat\shaxnat\bin\Debug\shaxnat.pdb
-C:\Users\artem\OneDrive\Рабочий стол\shaxnat\shaxnat\obj\Debug\shaxnat.csproj.AssemblyReference.cache
-C:\Users\artem\OneDrive\Рабочий стол\shaxnat\shaxnat\obj\Debug\shaxnat.csproj.CoreCompileInputs.cache
-C:\Users\artem\OneDrive\Рабочий стол\shaxnat\shaxnat\obj\Debug\shaxnat.exe
-C:\Users\artem\OneDrive\Рабочий стол\shaxnat\shaxnat\obj\Debug\shaxnat.pdb

@@ -1,7 +1,0 @@
-C:\Users\artem\OneDrive\Рабочий стол\coder\coder\bin\Debug\coder.exe.config
-C:\Users\artem\OneDrive\Рабочий стол\coder\coder\bin\Debug\coder.exe
-C:\Users\artem\OneDrive\Рабочий стол\coder\coder\bin\Debug\coder.pdb
-C:\Users\artem\OneDrive\Рабочий стол\coder\coder\obj\Debug\coder.csproj.AssemblyReference.cache
-C:\Users\artem\OneDrive\Рабочий стол\coder\coder\obj\Debug\coder.csproj.CoreCompileInputs.cache
-C:\Users\artem\OneDrive\Рабочий стол\coder\coder\obj\Debug\coder.exe
-C:\Users\artem\OneDrive\Рабочий стол\coder\coder\obj\Debug\coder.pdb

@@ -1,7 +1,0 @@
-C:\Users\artem\source\repos\лаба 3 циклы\лаба 3 циклы\bin\Debug\лаба 3 циклы.exe.config
-C:\Users\artem\source\repos\лаба 3 циклы\лаба 3 циклы\bin\Debug\лаба 3 циклы.exe
-C:\Users\artem\source\repos\лаба 3 циклы\лаба 3 циклы\bin\Debug\лаба 3 циклы.pdb
-C:\Users\artem\source\repos\лаба 3 циклы\лаба 3 циклы\obj\Debug\лаба 3 циклы.csproj.AssemblyReference.cache
-C:\Users\artem\source\repos\лаба 3 циклы\лаба 3 циклы\obj\Debug\лаба 3 циклы.csproj.CoreCompileInputs.cache
-C:\Users\artem\source\repos\лаба 3 циклы\лаба 3 циклы\obj\Debug\лаба 3 циклы.exe
-C:\Users\artem\source\repos\лаба 3 циклы\лаба 3 циклы\obj\Debug\лаба 3 циклы.pdb

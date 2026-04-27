@@ -1,7 +1,0 @@
-C:\Users\artem\OneDrive\Рабочий стол\90\90\bin\Debug\90.exe.config
-C:\Users\artem\OneDrive\Рабочий стол\90\90\bin\Debug\90.exe
-C:\Users\artem\OneDrive\Рабочий стол\90\90\bin\Debug\90.pdb
-C:\Users\artem\OneDrive\Рабочий стол\90\90\obj\Debug\90.csproj.AssemblyReference.cache
-C:\Users\artem\OneDrive\Рабочий стол\90\90\obj\Debug\90.csproj.CoreCompileInputs.cache
-C:\Users\artem\OneDrive\Рабочий стол\90\90\obj\Debug\90.exe
-C:\Users\artem\OneDrive\Рабочий стол\90\90\obj\Debug\90.pdb
