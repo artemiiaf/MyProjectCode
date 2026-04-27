@@ -1,0 +1,69 @@
+.header {
+  width: 900px;
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+}
+
+.imgP {
+  display: flex;
+  justify-content: space-between;
+  width: 200px;
+}
+
+.link-button {
+  display: flex;
+  width: 500px;
+  justify-content: space-between;
+}
+.list {
+  display: flex;
+  margin: 0 auto;
+  justify-content: space-between;
+}
+
+.list-el {
+  width: 80px;
+}
+
+.sign {
+  display: flex;
+  margin-left: 0 auto;
+  justify-content: space-between;
+}
+
+.sign-el {
+  width: 100px;
+  height: 50px;
+  margin-left: 25px;
+  border-radius: 5px;
+  font-size: 15px;
+}
+
+.sign-el1 {
+  background-color: #02897a;
+  border: 0;
+  color: white;
+}
+
+.sign-el2 {
+  border: 0;
+  color: #173a56;
+}
+
+.product {
+  font-size: 30px;
+  margin: 0 auto;
+  font-weight: 1000;
+}
+
+.list-product {
+  font-weight: 1000;
+}
+
+.img-paint {
+    width: 32px;
+    left: 1224px;
+    height: 32px;
+    border-radius: 100px;
+}

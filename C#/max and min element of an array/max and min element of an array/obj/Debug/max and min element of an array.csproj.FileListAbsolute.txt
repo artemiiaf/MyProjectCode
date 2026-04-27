@@ -1,0 +1,7 @@
+C:\Users\artem\OneDrive\Рабочий стол\max and min element of an array\max and min element of an array\bin\Debug\max and min element of an array.exe.config
+C:\Users\artem\OneDrive\Рабочий стол\max and min element of an array\max and min element of an array\bin\Debug\max and min element of an array.exe
+C:\Users\artem\OneDrive\Рабочий стол\max and min element of an array\max and min element of an array\bin\Debug\max and min element of an array.pdb
+C:\Users\artem\OneDrive\Рабочий стол\max and min element of an array\max and min element of an array\obj\Debug\max and min element of an array.csproj.AssemblyReference.cache
+C:\Users\artem\OneDrive\Рабочий стол\max and min element of an array\max and min element of an array\obj\Debug\max and min element of an array.csproj.CoreCompileInputs.cache
+C:\Users\artem\OneDrive\Рабочий стол\max and min element of an array\max and min element of an array\obj\Debug\max and min element of an array.exe
+C:\Users\artem\OneDrive\Рабочий стол\max and min element of an array\max and min element of an array\obj\Debug\max and min element of an array.pdb

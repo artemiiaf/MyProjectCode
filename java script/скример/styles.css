@@ -1,0 +1,15 @@
+body {
+    background-image: url("./qwerty/i.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+
+}
+
+.robux {
+
+    margin-top: 500px;
+    margin-left: 700px;
+    background-color: #9a0c32;
+    border-color: #e8e0e44d;
+    color: #f3f0f4;
+}

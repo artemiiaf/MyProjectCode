@@ -1,0 +1,10 @@
+C:\Users\artem\source\repos\ab\ab\bin\Debug\ab.exe.config
+C:\Users\artem\source\repos\ab\ab\bin\Debug\ab.exe
+C:\Users\artem\source\repos\ab\ab\bin\Debug\ab.pdb
+C:\Users\artem\source\repos\ab\ab\obj\Debug\ab.csproj.AssemblyReference.cache
+C:\Users\artem\source\repos\ab\ab\obj\Debug\ab.Form1.resources
+C:\Users\artem\source\repos\ab\ab\obj\Debug\ab.Properties.Resources.resources
+C:\Users\artem\source\repos\ab\ab\obj\Debug\ab.csproj.GenerateResource.cache
+C:\Users\artem\source\repos\ab\ab\obj\Debug\ab.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\ab\ab\obj\Debug\ab.exe
+C:\Users\artem\source\repos\ab\ab\obj\Debug\ab.pdb

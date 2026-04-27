@@ -1,0 +1,7 @@
+C:\Users\artem\source\repos\НВП с восстановлением ответа\НВП с восстановлением ответа\bin\Debug\НВП с восстановлением ответа.exe.config
+C:\Users\artem\source\repos\НВП с восстановлением ответа\НВП с восстановлением ответа\bin\Debug\НВП с восстановлением ответа.exe
+C:\Users\artem\source\repos\НВП с восстановлением ответа\НВП с восстановлением ответа\bin\Debug\НВП с восстановлением ответа.pdb
+C:\Users\artem\source\repos\НВП с восстановлением ответа\НВП с восстановлением ответа\obj\Debug\НВП с восстановлением ответа.csproj.AssemblyReference.cache
+C:\Users\artem\source\repos\НВП с восстановлением ответа\НВП с восстановлением ответа\obj\Debug\НВП с восстановлением ответа.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\НВП с восстановлением ответа\НВП с восстановлением ответа\obj\Debug\НВП с восстановлением ответа.exe
+C:\Users\artem\source\repos\НВП с восстановлением ответа\НВП с восстановлением ответа\obj\Debug\НВП с восстановлением ответа.pdb

@@ -1,0 +1,7 @@
+C:\Users\artem\OneDrive\Рабочий стол\set algebra\set algebra\bin\Debug\set algebra.exe.config
+C:\Users\artem\OneDrive\Рабочий стол\set algebra\set algebra\bin\Debug\set algebra.exe
+C:\Users\artem\OneDrive\Рабочий стол\set algebra\set algebra\bin\Debug\set algebra.pdb
+C:\Users\artem\OneDrive\Рабочий стол\set algebra\set algebra\obj\Debug\set algebra.csproj.AssemblyReference.cache
+C:\Users\artem\OneDrive\Рабочий стол\set algebra\set algebra\obj\Debug\set algebra.csproj.CoreCompileInputs.cache
+C:\Users\artem\OneDrive\Рабочий стол\set algebra\set algebra\obj\Debug\set algebra.exe
+C:\Users\artem\OneDrive\Рабочий стол\set algebra\set algebra\obj\Debug\set algebra.pdb

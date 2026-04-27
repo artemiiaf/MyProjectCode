@@ -1,0 +1,7 @@
+C:\Users\artem\OneDrive\Рабочий стол\two-dimensional arrays\two-dimensional arrays\bin\Debug\two-dimensional arrays.exe.config
+C:\Users\artem\OneDrive\Рабочий стол\two-dimensional arrays\two-dimensional arrays\bin\Debug\two-dimensional arrays.exe
+C:\Users\artem\OneDrive\Рабочий стол\two-dimensional arrays\two-dimensional arrays\bin\Debug\two-dimensional arrays.pdb
+C:\Users\artem\OneDrive\Рабочий стол\two-dimensional arrays\two-dimensional arrays\obj\Debug\two-dimensional arrays.csproj.AssemblyReference.cache
+C:\Users\artem\OneDrive\Рабочий стол\two-dimensional arrays\two-dimensional arrays\obj\Debug\two-dimensional arrays.csproj.CoreCompileInputs.cache
+C:\Users\artem\OneDrive\Рабочий стол\two-dimensional arrays\two-dimensional arrays\obj\Debug\two-dimensional arrays.exe
+C:\Users\artem\OneDrive\Рабочий стол\two-dimensional arrays\two-dimensional arrays\obj\Debug\two-dimensional arrays.pdb

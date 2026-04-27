@@ -1,0 +1,21 @@
+{
+  "stady": [
+    {
+      "id": 0,
+      "name": "artem",
+      "age": 17
+    },
+
+    {
+      "id": 1,
+      "name": "german",
+      "age": 16
+    },
+
+    {
+      "id": 2,
+      "name": "sasha",
+      "age": 18
+    }
+  ]
+}
